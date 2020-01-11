@@ -1,0 +1,6 @@
+#Sat, 11 Jan 2020 16:44:51 -0300
+
+info.app.version=0.1
+info.app.name=SistemaAsistencias
+grails.env=development
+info.app.grailsVersion=3.3.11

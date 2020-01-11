@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sistemaasistencias.AsistenciasSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-12-03T02:17:26" hostname="NicoPC" time="0.027">
+  <properties/>
+  <testcase name="test something" classname="sistemaasistencias.AsistenciasSpec" time="0.027">
+    <failure message="Condition not satisfied:&#10;&#10;true == false&#10;     |&#10;     false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+true == false
+     |
+     false
+
+	at sistemaasistencias.AsistenciasSpec.test something(AsistenciasSpec.groovy:16)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
